@@ -1,0 +1,5 @@
+* {
+    margem :  0 ;
+    preenchimento :  0 ;
+    font-family :  'Open Sans' , sans-serif;
+}
